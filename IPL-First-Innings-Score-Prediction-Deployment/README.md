@@ -8,3 +8,5 @@ This repository consists of files required to deploy a Machine Learning Web App 
 
 • A glimpse of the web app:
 
+
+file:///home/inderpreet/Desktop/machinglearning1/IPL-First-Innings-Score-Prediction-Deployment/ezgif-5-b5db0c11a7e9.gif
